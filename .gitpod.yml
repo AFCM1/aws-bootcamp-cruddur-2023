@@ -12,3 +12,4 @@ tasks:
 vscode:
   extensions:
     - 42Crunch.vscode-openapi
+    - GitHub.vscode-pull-request-github
